@@ -1,0 +1,9 @@
+#canvas_noise_overlay {
+	position: fixed;
+	image-rendering: pixelated;
+	pointer-events: none;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: transparent;
+}
